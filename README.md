@@ -12,6 +12,6 @@ Me, Myself,and I
 
 ### Computational Thinking Skills
 * [View my Computatinonal Thinking Excercise]
-* [View my Chinese Zodiac Program Source Code](q1/zodiacMagnesiumOliva.py)
+* [View my Chinese Zodiac Program Source Code](zodiacMagnesiumOliva.py)
 * [View my Chinese Zodiac Excercise Documentation](q1/zodiacMagnesiumOliva.md)
   
