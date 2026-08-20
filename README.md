@@ -1,2 +1,17 @@
-# Morian Jed B. Oliva
-# 9 - Magnesium
+# Computer Science 3 Portfolio
+
+## Student Info
+**Name:** Morian Jed B. Oliva
+**Section:** Magnesium
+**School Year:** 2026 - 2027
+Me, Myself,and I
+
+# Quarter 1
+
+## Activities
+
+### Computational Thinking Skills
+* [View my Computatinonal Thinking Excercise]
+* [View my Chinese Zodiac Program Source Code](q1/zodiacMagnesiumOliva.py)
+* [View my Chinese Zodiac Excercise Documentation](q1/zodiacMagnesiumOliva.md)
+  
