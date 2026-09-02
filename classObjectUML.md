@@ -17,7 +17,7 @@ Instruments
 |Tune |It changes the pitch and creates harmony |
 |Repair |Fixes the instrument from damage so that it can still be used. |
 ## Class Diagram
-![Class Diagram]()
+![Class Diagram](https://docs.google.com/document/d/1H5KA8FfOQ_XQfqBELZXLZuqGShzzmQvROZ--zrV6Gm8/edit?tab=t.0)
 ## Design Explanation
 ### Why did you choose this class?
 - I chose this class because it is something im familiar with.
