@@ -13,12 +13,11 @@ Instruments
 ## Methods
 | Method | Description |
 |---|---|
-
 |Play |It is the action that makes the instrument produce sound/music |
 |Tune |It changes the pitch and creates harmony |
 |Repair |Fixes the instrument from damage so that it can still be used. |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram]()
 ## Design Explanation
 ### Why did you choose this class?
 - I chose this class because it is something im familiar with.
