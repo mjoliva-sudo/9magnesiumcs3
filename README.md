@@ -4,7 +4,6 @@
 **Name:** Morian Jed B. Oliva
 **Section:** Magnesium
 **School Year:** 2026 - 2027
-Me, Myself,and I
 
 # Quarter 1
 
