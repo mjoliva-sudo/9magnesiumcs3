@@ -14,3 +14,4 @@
 * [View my Chinese Zodiac Program Source Code](zodiacMagnesiumOliva.py)
 * [View my Chinese Zodiac Excercise Documentation](zodiacMagnesiumOliva.md)
 * [View my OOPact](classObjectUML.md)
+* [View my OOPact II](classImplementation.py)
