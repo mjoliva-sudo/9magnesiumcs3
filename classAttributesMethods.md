@@ -5,7 +5,7 @@ Previous Activity:
 [Link to original work](classObjecctUML.md)
 
 ## Design Revision
-I turned attribute "Weight" into "istuned" then turned it pribate.
+I turned attribute "Weight" into "isTuned" then turned it private.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
@@ -15,7 +15,7 @@ I turned attribute "Weight" into "istuned" then turned it pribate.
 |isTuned |Boolean |Ptivate | |
 |Name |String |Public | |
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](classDiagramSG5.png)
 ## Python Implementation
 
 [View Python Source](classImplementation.py)
