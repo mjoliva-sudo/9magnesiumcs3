@@ -20,7 +20,7 @@ class Instrument:
         return f"{self.name} ({self.type}, made of {self.material}) - Price: ${self.__price}"
 
 if __name__ == "__main__":
-    instrument1 = Instrument("Stratocaster Guitar", "String", "Alder Wood", 1200)
+    instrument1 = Instrument("Fender Telecaster", "String", "Alder Wood", 1500)
     instrument2 = Instrument("Silver Flute", "Woodwind", "Silver", 800)
 
     print("--- BEFORE ---")
@@ -29,11 +29,10 @@ if __name__ == "__main__":
     print("-" * 40)
 
     print("Performing actions on Object 1...")
-    print(instrument1.play("Hotel California"))
+    print(instrument1.play("Moment of Truth by FM Static"))
     instrument1.apply_discount(150)
     print("-" * 40)
 
     print("--- AFTER ---")
     print(f"Object 1 (Updated):   {instrument1.get_details()}")
     print(f"Object 2 (Unchanged): {instrument2.get_details()}")
->>>>>>> ebcdd5549b59bf5d150fd017445c2c854096ccc5
