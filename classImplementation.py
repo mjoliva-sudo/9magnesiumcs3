@@ -20,8 +20,8 @@ class Instrument:
         return f"{self.name} ({self.type}, made of {self.material}) - Price: ${self.__price}"
 
 if __name__ == "__main__":
-    instrument1 = Instrument("Fender Telecaster", "String", "Alder Wood", 1500)
-    instrument2 = Instrument("Silver Flute", "Woodwind", "Silver", 800)
+    instrument1 = Instrument("Fender Telecaster", "String", "Alder Wood", 3300)
+    instrument2 = Instrument("Merano Nickel Flute", "Woodwind", "Silver", 3200)
 
     print("--- BEFORE ---")
     print(f"Object 1: {instrument1.get_details()}")
