@@ -17,7 +17,7 @@ I turned attribute "Weight" into "Price" then turned it private.
 ## Updated UML Class Diagram
 ![Class Diagram](classDiagramSG5.png)
 ## Python Implementation
-![View Python Source](classImplementation.py)
+[View Python Source](classImplementation.py)
 ## Test Run
 ![Test Run](classTestRun.png)
 ## Object Diagram
