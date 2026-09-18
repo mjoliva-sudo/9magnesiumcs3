@@ -18,7 +18,7 @@ I turned attribute "Weight" into "isTuned" then turned it private.
 ![Class Diagram](classDiagramSG5.png)
 ## Python Implementation
 
-[View Python Source](classImplementation.py)
+[View Python Source](classImplementatio.py)
 ## Test Run
 ![Test Run](images/classTestRun.png)
 ## Object Diagram
