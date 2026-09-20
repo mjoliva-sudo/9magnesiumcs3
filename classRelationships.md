@@ -9,11 +9,10 @@
 Class: Songs
 Description:
 ## Association
-Relationship:
+Relationship: Instrument plays Songs
 Explanation:
 ## Multiplicity
-
-Multiplicity:
+Multiplicity: one-to-many
 Explanation:
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
