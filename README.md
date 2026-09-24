@@ -15,3 +15,4 @@
 * [View my Chinese Zodiac Excercise Documentation](zodiacMagnesiumOliva.md)
 * [View my OOPact](classObjectUML.md)
 * [View my OOPact II](classAttributesMethods.md)
+* [View my OOPact III](classRelationships.md)

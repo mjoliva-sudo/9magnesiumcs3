@@ -15,7 +15,7 @@ Explanation:
 Multiplicity: one-to-many
 Explanation:
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](classRelationshipDiagram.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
