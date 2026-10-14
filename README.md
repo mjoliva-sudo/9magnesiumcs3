@@ -21,3 +21,4 @@
 # Quarter 2
 
 ## Activities
+*[View my Encapsulation](sg8_encapsulation.py)
