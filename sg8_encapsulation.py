@@ -1,6 +1,6 @@
 a = 1
-account = []
-pos = []
+b = []
+c = []
 class BankAccount:
   
   def __init__(self, account_number, balance):
@@ -21,8 +21,8 @@ class BankAccount:
     def get_account_number(self):
       global 
       account = []
-      pos = []
-      pos.append(a), accounts.append(self.__account_number 
+      b = []
+      b.append(a), accounts.append(self.__account_number 
       a += 1
       for i in accounts:
         if i == self.__account_number:
