@@ -4,11 +4,11 @@ c = []
 class BankAccount:
   
   def __init__(self, account_number, balance):
-    self._account_number: account_number
-    self._balance: balance
+    self.account_number: account_number
+    self.balance: balance
     
   def set_account_number(self, account_number):
-    self.__account_number = account_number
+    self.account_number = account_number
 
   def set_balance(self, balance):
     primt(f'Update balance to {balance}')
@@ -16,21 +16,21 @@ class BankAccount:
       print("the balance must not be a negative number.")
       return
     else:
-      self.__balance = balance
+      self.balance = balance
 
     def get_account_number(self):
       global 
       account = []
       b = []
-      b.append(a), accounts.append(self.__account_number 
+      b.append(a), accounts.append(self.account_number 
       a += 1
       for i in accounts:
-        if i == self.__account_number:
+        if i == self.account_number:
         print(f'Account {pos[accounts.index(i)]}\nAccount Number: {i}')
         break
         
       def get_balnce(self):L
-        print(f'Balance: {self. balance.__balance:.2f}')
+        print(f'Balance: {self. balance.balance:.2f}')
 
 BankAccount1 = Bankaccount("123456789", 1000)
 BankAccount1.get_account_number()
