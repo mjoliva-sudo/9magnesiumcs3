@@ -40,3 +40,5 @@ mag1 = Magazine()
 
 print("Publication Information:")
 pub1.display_info()
+
+print("\nBook Information:")
