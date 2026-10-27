@@ -27,7 +27,7 @@ class BankAccount: # Creation of Class
         return self.__balance  # Return the private balance
 
 
-# Create an object named a1 with account number 12345 and balance 1000
+# Create a variable named a1 with account number 12345 and balance 1000
 a1 = BankAccount(12345, 1000)
 
 # Display the account information
