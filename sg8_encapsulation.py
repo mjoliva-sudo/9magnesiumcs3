@@ -1,39 +1,36 @@
-a = 1
-b = []
-c = []
-class BankAccount:
-  
-  def __init__(self, account_number, balance):
-    self.account_number: account_number
-    self.balance: balance
+
+class BankAccount: # Creation of Class
+
+    def __init__(self, account_number, balance):
+        self.__account_number = account_number  # Private account number
+        self.__balance = balance  # Private balance
+
     
-  def set_account_number(self, account_number):
-    self.account_number = account_number
+    def set_account_number(self, account_number): #to update the account number
+        self.__account_number = account_number  #Save the new account number
 
-  def set_balance(self, balance):
-    primt(f'Update balance to {balance}')
-    if balance < 0:
-      print("the balance must not be a negative number.")
-      return
-    else:
-      self.balance = balance
+   
+    def set_balance(self, balance):  #To update the balance
+        if balance < 0:  # Checks if the new balance is negative
+            print("The balance must not be a negative number.")  # warning
+        else:
+            self.__balance = balance  # Updates the balance if it is not negative
 
+    # @property is used to access the account number like an attribute
+    @property
     def get_account_number(self):
-      global 
-      account = []
-      b = []
-      b.append(a), accounts.append(self.account_number 
-      a += 1
-      for i in accounts:
-        if i == self.account_number:
-        print(f'Account {pos[accounts.index(i)]}\nAccount Number: {i}')
-        break
-        
-      def get_balnce(self):L
-        print(f'Balance: {self. balance.balance:.2f}')
+        return self.__account_number  # Returns the private account number
 
-BankAccount1 = Bankaccount("123456789", 1000)
-BankAccount1.get_account_number()
-BankAccount1.get_balance()
-BankAccount1.set_account_number("123456789")
-BankAccount1.get_balance()
+    # @property is used to access the account balance like an attribute
+    @property
+    def get_balance(self):
+        return self.__balance  # Return the private balance
+
+
+# Create an object named a1 with account number 12345 and balance 1000
+a1 = BankAccount(12345, 1000)
+
+# Display the account information
+print("Account 1")
+print(f"Account Number: {a1.get_account_number}")  # Display account number
+print(f"Balance: {a1.get_balance:.2f}")  # Displays the balance with 2 decimal points
