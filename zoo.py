@@ -35,14 +35,14 @@ elephant = Elephant("Dumbo")
 monkey = Monkey("George")
 
 print(lion.make_sound())
-print(lion.feed())
+print(lion.eat())
 print("----")
 
 print(elephant.make_sound())
-print(elephant.feed())
+print(elephant.eat())
 print("----")
 
 print(monkey.make_sound())
-print(monkey.feed())
+print(monkey.eat())
 print("----")
 
