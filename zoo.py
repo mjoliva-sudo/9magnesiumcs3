@@ -3,31 +3,31 @@ class Animal:
     self.name = name
   
   def eat(self):
-    print(self.name, "is eating")
+    return(self.name, "is eating")
   
   def make_sound(self):
-    print(self.name, "makes sound")
+    return(self.name, "makes sound")
 
 class Lion(Animal):
   def eat(self):
-    print(self.name, "eats fresh meat")
-  
+    return(self.name, "eats fresh meat")
+
   def make_sound(self):
-    print(self.name, "roars loudly!")
+    return(self.name, "roars loudly!")
 
 class Elephant(Animal):
   def eat(self):
-    print(self.name, "eats grass and fruit")
+    return(self.name, "eats grass and fruit")
   
   def make_sound(self):
-    print(self.name, "trumpets!")
+    return(self.name, "trumpets!")
 
 class Monkey(Animal):
   def eat(self):
-    print(self.name, "eats bananas")
+    return(self.name, "eats bananas")
   
   def make_sound(self):
-    print(self.name, "chatters!")
+    return(self.name, "chatters!")
 
 animal1 = Animal("Generic")
 lion = Lion("Simba")
