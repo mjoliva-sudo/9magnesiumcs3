@@ -25,3 +25,4 @@
 * [View my Inheritance Code](sg9_inheritance.py)
 * [View my Zoo Management System Code](zoo.py)
 * [View my Updated Hospital Billing Code](polymorphism1.py)
+* [View my Polymorphism2 Code](Polymorphism2.2.py)
